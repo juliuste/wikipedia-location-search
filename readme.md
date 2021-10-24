@@ -1,3 +1,5 @@
+# :warning: UNMAINTAINED, PLEASE USE [WIKIDATA](https://www.wikidata.org) INSTEAD.
+
 # wikipedia-location-search
 
 Search for wikipedia articles based on given geolocation using [this API](https://en.wikipedia.org/w/api.php?action=query&list=geosearch&gscoord=37.786952%7C-122.399523&gsradius=10000&gslimit=10). Work in progress.
